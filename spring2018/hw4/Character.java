@@ -9,7 +9,7 @@ public abstract class Character {
     private boolean isDead = false;
 
     public Character(String name, int seed) {
-        //implement this constructor using constructor delegation
+        //implement this constructor
     }
 
     public Character(String name, int level,
