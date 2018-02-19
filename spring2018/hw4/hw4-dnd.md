@@ -87,15 +87,13 @@ Download the abstract class [Character.java](Character.java). Implement all the 
 
 ## Grading
 
-- [10] Getter and setter methods for `Character`.
+- [10] Getter and setter methods for `Character` (including `setHealth()`.
 - [5] Properly change `Character.isDead`.
-- [5] `health` never goes above `level` * 5.
 - [5 * 2 = 10] Each constructor for `Character`.
 - [10 * 4 = 40] Each `attack()` method for `Rogue`, `Fighter`, `Wizard`, and `Cleric`.
 - [5 * 4 = 20] Each`levelUp()` method for `Rogue`, `Fighter`, `Wizard`, and `Cleric`.
-- [5] `Wizard.multiAttack()`
-- [5] `Cleric.heal()`.
-- [5 * 4 = 20] `toString()` methods for each class.
+- [2.5 * 2 = 5] `Wizard.multiAttack()` and `Cleric.heal()`.
+- [2.5 * 4 = 10] `toString()` methods for each class.
 
 ## Running and Testing
 
